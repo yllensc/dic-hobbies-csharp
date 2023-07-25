@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/bin/Debug/net7.0/dic-hobbies-csharp
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/bin/Debug/net7.0/dic-hobbies-csharp.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/bin/Debug/net7.0/dic-hobbies-csharp.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/bin/Debug/net7.0/dic-hobbies-csharp.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/bin/Debug/net7.0/dic-hobbies-csharp.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/refint/dic-hobbies-csharp.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/dic-hobbies-csharp.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/dic-hobbies-csharp/obj/Debug/net7.0/ref/dic-hobbies-csharp.dll
